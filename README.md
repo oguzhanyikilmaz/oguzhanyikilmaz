@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Yıkılmaz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="left"> <a href="https://oguzhan.yikilmaz.com" target="blank">oguzhan.yikilmaz.com</a> </p>
+<p align="left"> <a href="https://oguzhanyikilmaz.com" target="blank">oguzhan.yikilmaz.com</a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oguzzyklmzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzzyklmzz" height="30" width="40" /></a>
